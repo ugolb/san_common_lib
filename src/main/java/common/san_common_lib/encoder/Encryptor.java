@@ -1,6 +1,6 @@
-package encoder;
+package common.san_common_lib.encoder;
 
-import constants.CommonConstants;
+import common.san_common_lib.constants.CommonConstants;
 import org.apache.commons.codec.binary.Base64;
 
 import javax.crypto.Cipher;

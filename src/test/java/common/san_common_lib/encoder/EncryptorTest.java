@@ -1,4 +1,4 @@
-package encoder;
+package common.san_common_lib.encoder;
 
 import org.assertj.core.api.Assertions;
 import org.junit.Test;

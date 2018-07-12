@@ -1,4 +1,4 @@
-package models;
+package common.san_common_lib.models;
 
 import lombok.Builder;
 import lombok.Getter;

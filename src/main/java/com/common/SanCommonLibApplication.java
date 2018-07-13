@@ -1,4 +1,4 @@
-package common.san_common_lib;
+package com.common;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

@@ -1,4 +1,4 @@
-package common.san_common_lib.constants;
+package com.common.constants;
 
 public final class CommonConstants {
     private CommonConstants() {
